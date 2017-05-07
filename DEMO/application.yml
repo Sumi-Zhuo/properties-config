@@ -18,4 +18,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/myorg/{application}
+          uri: https://github.com/Sumi-Zhuo/properties-config
